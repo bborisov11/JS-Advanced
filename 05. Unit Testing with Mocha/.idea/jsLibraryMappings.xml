@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$" libraries="{Unit Testing with Mocha/node_modules}" />
+    <file url="PROJECT" libraries="{Unit Testing with Mocha/node_modules, chai-DefinitelyTyped, mocha-DefinitelyTyped}" />
+  </component>
+</project>
